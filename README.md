@@ -6,12 +6,12 @@
 <div style="display: inline_block">
   <img align="center" alt="python-icon" height="30" width="40"  
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="blender3d" height="30" width="30"
+       src="blender.svg" />
   <img align="center" alt="javascript" height="30" width="40"
        src="javascript_icon.svg" />
-  <img align="center" alt="blender3d" height="30" width="40"
-       src="blender.svg" />
-  <img align="center" alt="c-plus-plus" height="30" width="40"
-       src="c_icon.svg" />
+  <img align="center" alt="c-plus-plus" height="30" width="30"
+       src="c_icon.png" />
  </div>
  
 -----------------------------------------------------------------------------------------------------------------------------

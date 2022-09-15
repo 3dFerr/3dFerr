@@ -1,14 +1,16 @@
 
-<!-- <div align="center">
-  <img src="fetus-intro-thumb.png" alt="fetus-logo" width="800" height="340"/>
+<div align="center">
+<h2> Current Work: </h2>
+  <img src="work01.gif" alt="work-preview"/>
 </div> 
 
-<br /> -->
+<br />
 
 <!-- Languages icons -->
 <div style="display: inline_block">
   <img align="center" alt="python-icon" height="30" width="40"  
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <h3>👋 Olá | Hi | Salve | γεια | Здравствуй | こんにちは | Ciao </h3>
   <h3>Paulo Ferr is Learning Computer Graphics Programming and 3D Modelling</h3>
  </div> 
 

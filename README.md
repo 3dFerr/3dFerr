@@ -11,8 +11,8 @@
  </div>
 
 -----------------------------------------------------------------------------------------------------------------------------
-<div aling="center">
-  <img src="lain666.png alt="serial experiment lain" />
+<div align="center">
+  <img src="lain666.png" alt="serial experiment lain" width="701" height="395"/>
  </div>
 
 

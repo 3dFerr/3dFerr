@@ -19,8 +19,9 @@
   <img src="work01.gif" alt="WIP" />
  </div>
 
-2022 - [@pauloferrdraw](https://www.instagram.com/pauloferrdraw/)
-
+<footer>
+  <p>2022 - <a href="https://www.instagram.com/pauloferrdraw/" target="_blank">@pauloferrdraw</a>
+</footer>
 
 
 <!--

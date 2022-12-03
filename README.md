@@ -1,5 +1,5 @@
   <h3>👋 Olá | Hi | Salve | γεια | Здравствуй | こんにちは | Ciao </h3>
-  <h3> Paulo Ferr is Learning Computer Graphics and Programming. Estudante de Análise e Desenvolvimento de Sistemas</h3>
+  <h3> 3D Ferr is Learning Computer Graphics and Programming. Estudante de Análise e Desenvolvimento de Sistemas</h3>
   <br/>
 
 <!-- Languages icons -->

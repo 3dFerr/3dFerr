@@ -1,13 +1,11 @@
   <h3>👋 Olá | Hi | Salve | γεια | Здравствуй | こんにちは | Ciao </h3>
-  <h3> 3D Ferr is Learning Computer Graphics and Programming. Estudante de Análise e Desenvolvimento de Sistemas</h3>
+  <h3> 3D Ferr -- Estudante de Análise e Desenvolvimento de Sistemas</h3>
   <br/>
 
 <!-- Languages icons -->
 <div style="display: inline_block">
   <img align="center" alt="python-icon" height="30" width="30"  
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="blender-icon" height="30" width="30"
-       src="blender.svg" />
   <img align="center" alt="c-plus-plus" height="30" width="30"
        src="c_icon.png" /> 
  </div>

@@ -19,7 +19,7 @@
  </div>
 
 <footer>
-  <p>2022 - <a href="https://www.instagram.com/3dferr/" target="_blank">@3dferr</a>
+  <p>Insta - <a href="https://www.instagram.com/3dferr/" target="_blank">@3dferr</a>
 </footer>
 
 

@@ -14,7 +14,8 @@
 <div align="center">
   <h2> Current Work </h2>
   <br/>
-  <img src="work01.gif" alt="WIP" />
+  <img width="300" height="416" src="minotaur.gif" alt="minotaur zbrush" />
+  <img align="top" width="400" height="323" src="space-helmet.gif" alt="space helmet zbrush" />
  </div>
 
 <footer>

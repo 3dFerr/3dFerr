@@ -7,6 +7,8 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="c-plus-plus" height="30" width="30"
        src="c_icon.png" /> 
+  <img align="center" alt="c-plus-plus" height="30" width="30"
+       src="asm-icon.png" />
  </div>
 
 -----------------------------------------------------------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-  <h3> 3D Ferr </h3>
+  <h3> M6 </h3>
   <br/>
 
 <!-- Languages icons -->
